@@ -1,8 +1,4 @@
 # Flame_dianostics-temperature_profile_estimation_using_ML
-In this project we try to estimate the temperature profile in a flame using a multi output regressive processes 
-
-*Theory*
-The aim of the project is to estimate temperature profile of a flame of a flame from the aborption spectra # Flame_dianostics-temperature_profile_estimation_using_ML
 
 In this project we try to estimate the temperature profile in a flame using a multi output regressive processes
 
