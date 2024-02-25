@@ -3,6 +3,7 @@
 In this project we try to estimate the temperature profile in a flame using a multi output regressive processes
 
 *Theory*
+--- 
 The aim of the project is to estimate temperature profile of a flame of a flame from the absorption spectra of selected gases ($CO_2, H_2O$) using a tuneable laser diode measuring the power spectrum of the incident laser beam and then after passing through the flame energy at particular spectrum will absorbed and measuring the emergent laser beam from the flame to get the absorption spectra.
 
 Now by using the absorption spectrum we are trying to estimate the temperature profile in the flame.
